@@ -1,0 +1,1 @@
+from . import math # 현재 폴더(myPackage)의 math를 불러오기 하는 명령어
